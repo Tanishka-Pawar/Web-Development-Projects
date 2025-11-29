@@ -3,10 +3,11 @@
 
 Project-1: make a clone of https://www.myntra.com/ site
 
-In this project we have tried to make a look alike clone of Myntra Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end with similar looks and features.
+In this projectI have tried to make a look alike clone of Myntra Website. With the efforts and the technology stack, that I have learned till now  at Qspider , I am able to clone the front end with similar looks and features.
 
 
 ## Technologies we used
+
 
 In this project we have used the following technologies:
 
